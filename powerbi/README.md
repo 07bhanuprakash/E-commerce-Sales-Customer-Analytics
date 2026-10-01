@@ -39,4 +39,4 @@ The dashboard uses the Olist e-commerce dataset to explore sales performance, cu
 
 The interactive Power BI dashboard provides insights into sales performance, customer behavior, product performance, and delivery trends.
 
-**[Download Power BI Dashboard]([PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1AjApnyGENgbAk8zBUYM3vMzmUA5w81n0/view?usp=sharing))**
+**[Download Power BI Dashboard](https://drive.google.com/file/d/1AjApnyGENgbAk8zBUYM3vMzmUA5w81n0/view?usp=sharing)**
