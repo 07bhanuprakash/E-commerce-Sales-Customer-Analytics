@@ -1,0 +1,28 @@
+# Windows / macOS system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary and log files
+*.log
+*.tmp
+
+# Power BI temporary/backup files
+*.pbit
+*.bak
+~$*.pbix
